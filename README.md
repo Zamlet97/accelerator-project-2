@@ -52,3 +52,4 @@ npm run test
 - `npm run lint-js`: проверяет скрипты по правилам eslint;
 - `npm run ls-lint`: проверяет именование файлов и папок;
 - `npm run editorconfig`: проверяет editorconfig.
+[check-url]: https://github.com/Zamlet97/accelerator-project-2/actions
